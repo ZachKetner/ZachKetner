@@ -19,6 +19,13 @@ My name is Zach Ketner and I'm a software developer/DevOps engineer. I'm from th
 
 ### Hi there 👋
 
+<!-- Icons -->
+
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links -->
+
+[2]: https://www.linkedin/in/Zach-Ketner/
 <!--
 **ZachKetner/ZachKetner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
