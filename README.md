@@ -21,7 +21,7 @@ My name is Zach Ketner and I'm a software developer/DevOps engineer. I'm from th
 
 <!-- Icons -->
 
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[2.2]: https://raw.githubusercontent.com/ZachKetner/ZachKetner/main/linkedinlogo.png (LinkedIn icon without padding)
 
 <!-- Links -->
 
