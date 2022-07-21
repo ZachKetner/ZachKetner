@@ -17,7 +17,7 @@ My name is Zach Ketner and I'm a software developer/DevOps engineer. I'm from th
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/ZachKetner/ZachKetner/main/WaveHand.gif" width="30px">
 
 <!-- Icons -->
 
