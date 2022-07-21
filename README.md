@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/ZachKetner/ZachKetner/main/header/reg_background.jpg "Header")](https://linkedin.com/in/zach-ketner)
 
-My name is Zach Ketner and I'm a software developer/DevOps engineer. I'm from the Kansas City area, living in Raymore, MO and currently working on rebooting my professional career in web/software development. You can find me on [![LinkedIn][3.2]][3].
+My name is Zach Ketner and I'm a software developer/DevOps engineer. I'm from the Kansas City area, living in Raymore, MO and currently working on rebooting my professional career in web/software development. You can find me on [![LinkedIn][3.2]][2].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
