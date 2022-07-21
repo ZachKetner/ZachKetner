@@ -4,7 +4,7 @@
 
 My name is Zach Ketner and I'm a software developer/DevOps engineer. I'm from the Kansas City area, living in Raymore, MO and currently working on rebooting my professional career in web/software development. You can find me on [<img src="https://raw.githubusercontent.com/ZachKetner/ZachKetner/main/linkedinlogo.png" width="18" >][1].
 
-## 🔧 Technologies & Tools
+## 🔧 Languages & Tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -24,7 +24,7 @@ My name is Zach Ketner and I'm a software developer/DevOps engineer. I'm from th
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZachKetner)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Icons -->
 
