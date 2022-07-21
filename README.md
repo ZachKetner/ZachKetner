@@ -25,7 +25,7 @@ My name is Zach Ketner and I'm a software developer/DevOps engineer. I'm from th
 
 <!-- Links -->
 
-[2]: https://www.linkedin/in/Zach-Ketner/
+[2]: https://www.linkedin.com/in/Zach-Ketner/
 <!--
 **ZachKetner/ZachKetner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
