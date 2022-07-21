@@ -1,5 +1,7 @@
 [![Header](https://raw.githubusercontent.com/ZachKetner/ZachKetner/main/header/reg_background.jpg "Header")](https://linkedin.com/in/zach-ketner)
 
+### Hi there <img src="https://raw.githubusercontent.com/ZachKetner/ZachKetner/main/WaveHand.gif" width="30px">
+
 My name is Zach Ketner and I'm a software developer/DevOps engineer. I'm from the Kansas City area, living in Raymore, MO and currently working on rebooting my professional career in web/software development. You can find me on [<img src="https://raw.githubusercontent.com/ZachKetner/ZachKetner/main/linkedinlogo.png" width="18" >][1].
 
 ## 🔧 Technologies & Tools
@@ -18,7 +20,7 @@ My name is Zach Ketner and I'm a software developer/DevOps engineer. I'm from th
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp; -->
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp; -->
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp; -->
-  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp; -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angularjs" alt="Angularjs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -30,7 +32,7 @@ My name is Zach Ketner and I'm a software developer/DevOps engineer. I'm from th
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### Hi there <img src="https://raw.githubusercontent.com/ZachKetner/ZachKetner/main/WaveHand.gif" width="30px">
+
 
 <!-- Icons -->
 
