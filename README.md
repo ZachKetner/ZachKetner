@@ -24,7 +24,9 @@ My name is Zach Ketner and I'm a software developer/DevOps engineer. I'm from th
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZachKetner)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZachKetner&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <!-- Icons -->
 
