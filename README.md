@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/ZachKetner/ZachKetner/main/header/reg_background.jpg "Header")](https://linkedin.com/in/zach-ketner)
+[![Header](https://raw.githubusercontent.com/ZachKetner/ZachKetner/main/header/profile_background.png "Header")](https://linkedin.com/in/zach-ketner)
 
 ### Hi there <img src="https://raw.githubusercontent.com/ZachKetner/ZachKetner/main/WaveHand.gif" width="30px">
 
