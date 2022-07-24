@@ -32,7 +32,7 @@ My name is Zach Ketner and I'm a software developer/DevOps engineer. I'm from th
 
 👯 I’m looking to collaborate on any project that I can learn more about languages that I know or ones that I still need to learn.
 
-🔭 I’m currently working on rebooting my professional life with a career in web/software development.  Not looking for a free pass but willing to losten to everyone that has made that journey before me that I can learn from their experience!
+🔭 I’m currently working on rebooting my professional life with a career in web/software development.  Not looking for a free pass but willing to listen to everyone that has made that journey before me that I can learn from their experience!
 
 📫 How to reach me: Email is the best zakb234@gmail.com of visit me here: [<img src="https://raw.githubusercontent.com/ZachKetner/ZachKetner/main/linkedinlogo.png" width="18" >][1] connect and send a message.
 
