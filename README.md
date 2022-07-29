@@ -29,7 +29,7 @@ My name is Zach Ketner and I'm a software developer/DevOps engineer. I'm from th
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZachKetner&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
-💬 Ask me about the project that I created collaborating with another developer. [Biking Community]([2])
+💬 Ask me about the project that I created collaborating with another developer. http://18.217.60.166/
 
 👯 I’m looking to collaborate on any project that I can learn more about languages that I know or ones that I still need to learn.
 
@@ -42,7 +42,7 @@ My name is Zach Ketner and I'm a software developer/DevOps engineer. I'm from th
 <!-- Links -->
 
 [1]: https://www.linkedin.com/in/Zach-Ketner/
-[2]: http://18.217.60.166/
+
 <!--
 **ZachKetner/ZachKetner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
