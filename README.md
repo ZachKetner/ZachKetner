@@ -26,7 +26,7 @@ My name is Zach Ketner and I'm a software developer/DevOps engineer. I'm from th
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZachKetner&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZachKetner&layout=compact&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 💬 Ask me about the project that I created collaborating with another developer. http://18.217.60.166/
